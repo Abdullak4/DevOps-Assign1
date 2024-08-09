@@ -110,3 +110,5 @@ while True:
 
     else:
         print("Invalid option. Please try again.")
+
+print("")
